@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @renzoscotta
-- 👀 I’m SysAdmin, learning fullstack development
+- 👀 I’m SysAdmin, learning game development.
+- 🎶 Music & Sound FX productor.
 - 🌱 I know about networks, virtualization, and Linux systems in general.
 - 🥋 I train Brazilian JiuJitsu and 📚 I'm Spanish Professor.
 - 📫 renzoscotta@gmail.com
